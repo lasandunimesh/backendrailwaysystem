@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "706z3pKAH1Vs9n6a",
+        "JWT_KEY": "7yhGG45#rrtCvhh@swqaFrc",
+        "SCREAT_EMAIL": "trainalkdmin@gmail.com",
+        "SCREAT_EMAIL_PASS": "train123123",
+        "MYMAIL_SERVICE": "Gmail",
+        "DB_NAME": "RailwayDb"
+    }
+}
